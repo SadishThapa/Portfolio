@@ -15,7 +15,7 @@ export default function Navbar() {
       <div className='container mx-auto flex items-center justify-between p-5'>
         {/* LOGO*/}
         <a href="#home" className='text-4xl font-bold italic text-white'>
-          Sadish
+          Home
         </a>
 
         {/**Mobile Menu Toggle */}

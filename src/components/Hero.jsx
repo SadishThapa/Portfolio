@@ -20,7 +20,7 @@ export default function Hero() {
           <div className='absolute -z-10 w-60 h-60 bg-[#cd3cf5] rounded-full blur-3xl opacity-50 -top-5 -left-12'></div>
           <header>
             <h1 className='text-4xl sm:text-4xl md:text-5xl font-bold text-white mb-4'>
-              Sadish Thapa
+              Sadi FAT AF
             </h1>
             <h2 className='text-xl sm:text-4xl md:text-2xl font-bold text-[#3e0f4a] md:text-[#c744ec] mb-2'>
               Software Developer

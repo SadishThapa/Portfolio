@@ -21,7 +21,7 @@ export default function About() {
             <div className='absolute z-0 w-40 sm:w-60 sm:h-60 bg-[#cd3cfs] rounded-full blur-3xl opacity-50
             -top-5 left-10'>
                 <header>
-                  <h1 className='text-3x1 sm:text-4x1 md:text-5x1 lg'></h1>
+                  <h1 className='text-3x1 sm:text-4x1 md:text-5x1 lg:text-6x1 font-bold mb-4 sm:mb-6'></h1>
                 </header>
             </div>
         </article>

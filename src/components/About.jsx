@@ -6,11 +6,11 @@ export default function About() {
     <section id='about' className='min-h-screen overflow-hidden flex items-center justify-center text-white px-4 sm:px-6'>
       <div className='max-w-6xl w-full grid grid-cols-1 lg:grid-cols-2 gap-8 sm:gap-12 items-center'>
         <figure data-aos='fade-right' data-aos-delay='500' className='flex justify-center relative'>
-          <div className='sm:h-[300px] sm:w-[400px] lg:h-[500px]'>
+          <div className='sm:h-[300px] sm:w-[400px] lg:h-[450px]'>
             <img
               src={pic}
               alt="me"
-              className='w-64 h-64 sm:w-96 sm:h-96 rounded-3xl shadow-lg object-cover border-2 border-white mx-auto'
+          className='w-full h-auto rounded-3xl shadow-lg object-cover border-2 border-white mx-auto'
             />
 
           </div>
@@ -18,12 +18,18 @@ export default function About() {
 
         <article data-aos='fade-left' data-aos-delay='500' className='text-center lg:text-left relative'>
 
-            <div className='absolute z-0 w-40 sm:w-60 sm:h-60 bg-[#cd3cfs] rounded-full blur-3xl opacity-50
-            -top-5 left-10'>
+    
                 <header>
-                  <h1 className='text-3x1 sm:text-4x1 md:text-5x1 lg:text-6x1 font-bold mb-4 sm:mb-6'></h1>
+                  <h1 className='text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-4 sm:mb-6'>
+                    About Me
+                  </h1>
                 </header>
-            </div>
+
+<p className='text-xl sm:text-2xl text-gray-300 mb-6 sm:mb-8 leading-relaxed'>
+                  Hi, I'm Sadish, I'm passionate in learning new technologies and finding ways to tackle problems.
+                  I became interested in Computer Science during high school where I built computers and was introduced to programming.
+                  Since then, I pursued and completed my B.S. in Computer Science at the University of Maryland.
+                </p>
         </article>
         
 

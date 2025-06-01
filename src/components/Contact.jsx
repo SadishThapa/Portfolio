@@ -14,7 +14,7 @@ export default function Contact() {
         className='w-full max-w-xl bg-gray-800 rounded-lg p-8 shadow-lg space-y-4'
       >
         <input type='hidden' name='_captcha' value='false' />
-        <input type='hidden' name='_next' value='http://localhost:5173/' />
+        <input type='hidden' name='_next' value='https://sadishthapa.github.io/Portfolio/' />
 
         <div>
           <label className='block text-sm font-semibold mb-1' htmlFor='name'>Name</label>

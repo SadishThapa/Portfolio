@@ -21,7 +21,7 @@ export default function About() {
           <p className='text-xl sm:text-2xl text-gray-300 mb-6 sm:mb-8 leading-relaxed'>
             I'm Sadish Thapa, a Computer Science graduate from the University of Maryland with
             a passion for building impactful software. I enjoy turning ideas into real-world solutions
-            through code. I'm always exploring new technologies and ways to solve meaningful problems.
+            through code. I'm always exploring new technologies and ways to solve problems.
           </p>
         </article>
       </div>

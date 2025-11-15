@@ -6,12 +6,12 @@ import kotlin from '../library/kotlin.png';
 import python from '../library/python.png';
 
 const SkillsData = [
-  { id: 1, image: python, title: 'Python', description: '2 years of experience' },
+  { id: 1, image: python, title: 'Python', description: '3 years of experience' },
   { id: 2, image: java, title: 'Java', description: '3 years of experience' },
-  { id: 3, image: kotlin, title: 'Kotlin', description: '4 months of experience' },
-  { id: 4, image: javascript, title: 'JavaScript', description: '2 years of experience' },
-  { id: 5, image: html, title: 'HTML', description: '1 year of experience' },
-  { id: 6, image: css, title: 'CSS', description: '1 year of experience' },
+  { id: 3, image: kotlin, title: 'Kotlin', description: '8 months of experience' },
+  { id: 4, image: javascript, title: 'JavaScript', description: '3 years of experience' },
+  { id: 5, image: html, title: 'HTML', description: '2 year of experience' },
+  { id: 6, image: css, title: 'CSS', description: '2 year of experience' },
 ];
 
 export default function Skills() {

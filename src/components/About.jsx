@@ -1,4 +1,3 @@
-import React from 'react'
 import pic from '../library/pic.png'
 
 export default function About() {
@@ -19,9 +18,9 @@ export default function About() {
             </h1>
           </header>
           <p className='text-xl sm:text-2xl text-gray-300 mb-6 sm:mb-8 leading-relaxed'>
-            I'm Sadish Thapa, a Computer Science graduate from the University of Maryland with
+            I'm Sadish Thapa, a full stack Software Engineer and recent Computer Science graduate from the University of Maryland with
             a passion for building impactful software. I enjoy turning ideas into real-world solutions
-            through code. I'm always exploring new technologies and ways to solve problems.
+            through code.
           </p>
         </article>
       </div>
